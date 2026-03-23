@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://akhilabandam19-jpg.github.io/portfolio",
+  "homepage": "https://akhilabandam19-jpg.github.io/MyPortfolio/",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
-    "deploy": "pnpm build && gh-pages -d dist/public",
+    "deploy": "VITE_BASE_PATH=/MyPortfolio/ pnpm build && gh-pages -d client/dist",
     "start": "NODE_ENV=production node dist/index.js",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
