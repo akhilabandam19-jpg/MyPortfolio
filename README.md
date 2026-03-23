@@ -4,79 +4,61 @@ Senior Software Engineer with **12+ years of experience** building scalable back
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🔵 PayPal — Lead Software Engineer  
-**May 2022 – Present | Atlanta, GA**
-
-- Built and maintained a **Decidim-based civic engagement platform** using Ruby on Rails  
-- Designed and developed **Node.js and TypeScript backend services** for internal platforms  
-- Implemented participatory workflows including proposal submission, evaluation, and moderation  
-- Enhanced system reliability through **debugging, performance tuning, and query optimization**  
-- Developed secure APIs with **authentication, authorization, and role-based access control (RBAC)**  
-- Optimized PostgreSQL queries, indexing, and data models for high-performance applications  
-- Led Rails upgrades, dependency management, and framework migrations  
-- Built administrative tools supporting bulk operations, messaging workflows, and content management  
-- Collaborated with frontend teams to integrate APIs with React-based interfaces  
-- Improved platform accessibility, usability, and input validation to ensure data integrity  
+**May 2022 – Present**
+- Built and enhanced a **Decidim-based civic engagement platform** using Ruby on Rails  
+- Designed **Node.js & TypeScript backend services** for scalable internal APIs  
+- Improved system performance, reliability, and data handling across high-traffic workflows  
 
 ---
 
 ### 🔴 Target Corporation — Senior Software Engineer  
-**Jan 2017 – Apr 2022 | Minneapolis, MN**
-
+**Jan 2017 – Apr 2022**
 - Developed backend systems supporting **high-traffic retail applications**  
 - Built and integrated **RESTful APIs** for real-time data exchange  
-- Improved application scalability through optimized API calls and asynchronous processing  
-- Worked extensively with **Ruby on Rails, ActiveRecord, and relational data models**  
-- Enhanced system performance, reliability, and error handling  
-- Supported UI integrations using HTML, CSS, and JavaScript  
-- Debugged and resolved production issues across distributed systems  
-- Collaborated in Agile teams delivering scalable and maintainable solutions  
+- Improved scalability, reliability, and API performance  
 
 ---
 
 ### 🟡 Amazon India — Software Engineer  
-**Aug 2013 – Nov 2016 | Bangalore, India**
-
-- Built backend services supporting **large-scale e-commerce workflows**  
-- Integrated applications with REST APIs for product search, ordering, and tracking  
-- Worked with AWS services including **S3, EC2, and CloudWatch**  
-- Improved system reliability through monitoring, logging, and issue resolution  
-- Developed and maintained Rails-based modules for backend services  
-- Participated in deployment, testing, and production support  
+**Aug 2013 – Nov 2016**
+- Built backend services for **large-scale e-commerce systems**  
+- Integrated applications with REST APIs for product and order workflows  
+- Worked with AWS services for deployment, storage, and monitoring  
 
 ---
 
-## 📊 Key Projects
+## 📊 Featured Projects
 
 ### 🏛 Civic Engagement Platform (Decidim)
-Scaled and enhanced an open-source civic platform used for community participation.
+Scaled and customized an open-source civic platform used by government and community organizations.
 
 - Implemented proposal workflows, moderation tools, and admin controls  
-- Improved accessibility, usability, and system performance  
-- Built features supporting real-world participatory use cases  
+- Improved accessibility, usability, and platform performance  
+- Built features supporting large-scale user participation  
 
 **Tech:** Ruby on Rails, PostgreSQL, REST APIs, RBAC  
 
 ---
 
 ### ⚙️ Scalable Backend Services
-Designed and developed backend services for internal platforms.
+Designed and developed modular backend services for internal platforms.
 
-- Built modular REST APIs using Node.js and TypeScript  
-- Implemented authentication and authorization mechanisms  
-- Ensured backward compatibility and performance optimization  
+- Built secure REST APIs using Node.js and TypeScript  
+- Implemented authentication and role-based access control (RBAC)  
+- Optimized performance and ensured backward compatibility  
 
 **Tech:** Node.js, TypeScript, Microservices  
 
 ---
 
 ### 🛒 High-Traffic Retail Systems
-Developed backend systems supporting retail workflows at scale.
+Developed backend systems supporting large-scale retail operations.
 
 - Handled high concurrency and large data volumes  
-- Improved system performance and API efficiency  
+- Improved system throughput and API performance  
 
 **Tech:** Ruby on Rails, PostgreSQL  
 
@@ -84,8 +66,8 @@ Developed backend systems supporting retail workflows at scale.
 
 ## 🧠 Core Skills
 
-- **Languages:** JavaScript, TypeScript, Ruby  
 - **Backend:** Node.js, Ruby on Rails, REST APIs, Microservices  
+- **Languages:** JavaScript, TypeScript, Ruby  
 - **Databases:** PostgreSQL, Relational Databases  
 - **Cloud:** AWS (S3, EC2, CloudWatch)  
 - **Security:** JWT, RBAC, Authentication & Authorization  
