@@ -1,57 +1,84 @@
-# Senior Software Engineer Portfolio
+# 🚀 Senior Software Engineer
 
-A modern, interactive portfolio showcasing 12+ years of experience building scalable backend systems, civic engagement platforms, and REST APIs.
+Senior Software Engineer with **12+ years of experience** building scalable backend systems, high-performance APIs, and distributed platforms across fintech, retail, and enterprise domains.
 
-## About
+---
 
-Senior Software Engineer with expertise in:
-- **Ruby on Rails** — MVC architecture, ActiveRecord, RESTful APIs
-- **Node.js / TypeScript** — Microservices, JWT authentication, RBAC
-- **PostgreSQL** — Query optimization, indexing, relational data design
-- **System Design** — Distributed systems, scalability, performance optimization
+## 💼 Professional Experience
 
-## Experience
+### 🔵 PayPal — Lead Software Engineer  
+**May 2022 – Present**
+- Designed and implemented scalable backend services for financial workflows  
+- Built high-performance REST APIs supporting large-scale internal systems  
+- Improved system efficiency through query optimization and performance tuning  
+- Led backend architecture decisions for new platform capabilities  
 
-- **PayPal** (May 2022 – Present) — Lead Software Engineer
-- **Target Corporation** (Jan 2017 – Apr 2022) — Senior Software Engineer
-- **Amazon India** (Aug 2013 – Nov 2016) — Software Engineer
+---
 
-## Featured Case Studies
+### 🔴 Target Corporation — Senior Software Engineer  
+**Jan 2017 – Apr 2022**
+- Developed high-traffic backend systems supporting retail operations  
+- Built modular services using Ruby on Rails and REST APIs  
+- Improved system reliability and production performance  
+- Collaborated with cross-functional teams to deliver scalable solutions  
 
-### 1. Scaling a Civic Engagement Platform
-Customized and scaled Decidim, an open-source civic platform used by governments worldwide. Implemented participatory budgeting modules, admin tools, spam prevention, and accessibility improvements.
+---
 
-**Tech:** Ruby on Rails, PostgreSQL, Decidim, REST APIs, RBAC
+### 🟡 Amazon India — Software Engineer  
+**Aug 2013 – Nov 2016**
+- Built backend services for large-scale e-commerce platforms  
+- Handled high request volumes and optimized system performance  
+- Focused on scalability, reliability, and system stability  
 
-### 2. Designing Scalable Backend Services
-Built modular, backward-compatible REST APIs for internal platforms with JWT authentication, role-based access control, and performance optimization.
+---
 
-**Tech:** Node.js, TypeScript, JWT, RBAC, Microservices
+## 📊 Key Projects
 
-### 3. High-Traffic Retail Backend Systems
-Contributed to customer-facing and internal Rails applications supporting high-traffic retail workflows at Target Corporation.
+### ⚙️ Scalable API Platform
+Designed and built secure, high-performance backend services.
 
-**Tech:** Ruby on Rails, ActiveRecord, PostgreSQL, REST APIs
+- Developed REST APIs with JWT authentication and RBAC  
+- Designed modular microservices architecture  
+- Improved response times and system efficiency  
 
-## Tech Stack
+**Tech:** Node.js, TypeScript, AWS, REST APIs  
 
-- **Frontend:** React 19, TypeScript, Tailwind CSS 4, Framer Motion
-- **Charting:** Recharts
-- **Routing:** Wouter
-- **Build Tool:** Vite
-- **Styling:** Tailwind CSS with custom design tokens
+---
 
-## Design
+### 🏛 Civic Engagement Platform (Decidim)
+Customized and scaled an open-source civic platform used by governments.
 
-The portfolio follows a "Structured Elegance" design philosophy:
-- Deep navy background with electric blue accents
-- Space Grotesk for headings, DM Sans for body text
-- Smooth scroll-triggered animations
-- Responsive grid layouts
-- Interactive charts and visualizations
+- Implemented participatory workflows and admin tools  
+- Improved performance, accessibility, and moderation systems  
+- Built features supporting real-world civic use cases  
 
-## Contact
+**Tech:** Ruby on Rails, PostgreSQL, REST APIs  
 
-- **Email:** akhila.bandam@example.com
-- **LinkedIn:** [linkedin.com/in/akhila-sree-2231a7241](https://linkedin.com/in/akhila-bandam)
-- **GitHub:** [github.com/akhilabandam19-jpg](https://github.com/akhilabandam19-jpg)
+---
+
+### 🛒 High-Traffic Retail Systems
+Developed backend systems supporting large-scale retail operations.
+
+- Handled high concurrency and large data volumes  
+- Improved system throughput and reliability  
+
+**Tech:** Ruby on Rails, PostgreSQL  
+
+---
+
+## 🧠 Core Skills
+
+- **Backend:** Java, Node.js (TypeScript), Ruby on Rails  
+- **APIs:** REST, Microservices Architecture  
+- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **Cloud:** AWS (Lambda, API Gateway, S3, CloudWatch)  
+- **Security:** JWT, OAuth2, RBAC  
+- **System Design:** Scalability, Distributed Systems  
+
+---
+
+## 📬 Contact
+
+📧 akhilabandam19@gmail.com 
+🔗 https://linkedin.com/in/akhila-sree-2231a7241  
+💻 https://github.com/akhilabandam19-jpg  
