@@ -33,28 +33,6 @@ Contributed to customer-facing and internal Rails applications supporting high-t
 
 **Tech:** Ruby on Rails, ActiveRecord, PostgreSQL, REST APIs
 
-## Getting Started
-
-### Prerequisites
-- Node.js 18+
-- pnpm
-
-### Installation
-
-```bash
-# Install dependencies
-pnpm install
-
-# Start development server
-pnpm dev
-
-# Build for production
-pnpm build
-
-# Preview production build
-pnpm preview
-```
-
 ## Tech Stack
 
 - **Frontend:** React 19, TypeScript, Tailwind CSS 4, Framer Motion
@@ -72,12 +50,8 @@ The portfolio follows a "Structured Elegance" design philosophy:
 - Responsive grid layouts
 - Interactive charts and visualizations
 
-## License
-
-MIT
-
 ## Contact
 
 - **Email:** akhila.bandam@example.com
-- **LinkedIn:** [linkedin.com/in/akhila-bandam](https://linkedin.com/in/akhila-bandam)
+- **LinkedIn:** [linkedin.com/in/akhila-sree-2231a7241](https://linkedin.com/in/akhila-bandam)
 - **GitHub:** [github.com/akhilabandam19-jpg](https://github.com/akhilabandam19-jpg)
